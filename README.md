@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Cherry 👋</h1>
 <h3 align="center">A passionate Full-Stack Developer from New York, NY</h3>
 
-- ✨ Contributing to [Lift the World](https://github.com/2206-capstone-lifters/lift-the-world)
+- ✨ Working on my portfolio and currently open to job opportunities
+- 🌱 Recent graduate of Fullstack Academy's 2206 cohort
 - 👨‍💻 All of my projects are available at www.cherryxu.dev
 - 📄 Know about my experiences on my [resume](https://drive.google.com/file/d/1h6DzfrY5yBHqp6yyFJMFGJYJmlI4OmQh/view?usp=sharing)
 - 💬 Talk to me about **PERN stack and nutrition**
