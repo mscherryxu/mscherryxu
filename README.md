@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Cherry 👋</h1>
 <h3 align="center">A passionate Full-Stack Developer from Brooklyn, NY</h3>
 
-- 🆕 Contributing to [rocket-ships](https://github.com/reduxRocketShips/rocket-ships) game
-- ✨ Currently open to job opportunities
+- 🆕 Contributing to [rocket-ships](https://github.com/reduxRocketShips/rocket-ships) game and [OpenAir](https://github.com/openair-collective/Carbon-Forming)
 - 🌱 Recent graduate of Fullstack Academy's 2206 cohort
 - 👨‍💻 All of my projects are available at www.cherryxu.dev
 - 💬 Talk to me about **PERN stack and nutrition**
